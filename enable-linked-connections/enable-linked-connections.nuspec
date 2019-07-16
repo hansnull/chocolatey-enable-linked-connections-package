@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/hansnull/chocolatey-enable-linked-connections-package</projectUrl>
     <copyright>All rights reserved</copyright>
     <licenseUrl>https://raw.githubusercontent.com/hansnull/chocolatey-enable-linked-connections-package/master/LICENSE</licenseUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/hansnull/chocolatey-enable-linked-connections-package</projectSourceUrl>
     <tags>enable-linked-connections SPACE_SEPARATED</tags>
     <summary>Enables linked connections on Windows</summary>
