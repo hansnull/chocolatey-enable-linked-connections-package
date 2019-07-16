@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>enable-linked-connections</id>
+    <version>0.0.0.1</version>
+    <owners>hans0</owners>
+    <title>enable-linked-connections (Install)</title>
+    <authors>hans0</authors>
+    <projectUrl>https://github.com/hansnull/chocolatey-enable-linked-connections-package</projectUrl>
+    <copyright>All rights reserved</copyright>
+    <licenseUrl>https://raw.githubusercontent.com/hansnull/chocolatey-enable-linked-connections-package/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/hansnull/chocolatey-enable-linked-connections-package</projectSourceUrl>
+    <tags>enable-linked-connections SPACE_SEPARATED</tags>
+    <summary>Enables linked connections on Windows</summary>
+    <description>Enables linked connections on Windows. See more at https://support.microsoft.com/en-us/help/3035277/mapped-drives-are-not-available-from-an-elevated-prompt-when-uac-is-co</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
