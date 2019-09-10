@@ -15,6 +15,9 @@
     <tags>enable-linked-connections SPACE_SEPARATED</tags>
     <summary>Enables linked connections on Windows</summary>
     <description>Enables linked connections on Windows. See more at https://support.microsoft.com/en-us/help/3035277/mapped-drives-are-not-available-from-an-elevated-prompt-when-uac-is-co</description>
+	<dependencies>
+      <dependency id="chocolatey-fastanswers.extension"/>
+    </dependencies>	
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
